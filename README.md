@@ -1,5 +1,8 @@
-# Titanic-Dataset-Analysis
-I am new to data Analysis and this dataset was recommended to me as a great one to start off with.
-Please let me know about any errors or ways to improve myself. This contains my analysis of the Titanic Dataset. I keep using this to apply whatever I learn.
- 
- I have used Logistic Regression to predict the survival.
+## Data Analysis Repository
+
+Repository for all my Jupyter Notebooks
+
+1. Titanic - ML From Disaster Dataset
+2. Iris Flower Classification Dataset
+3. California Housing Dataset
+4. SMS Spam Classification Dataset
