@@ -1,4 +1,4 @@
-## Data Analysis Repository
+# Data Analysis Repository
 
 Repository for all my Jupyter Notebooks
 ### Classification Problems
