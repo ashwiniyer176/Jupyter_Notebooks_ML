@@ -2,10 +2,10 @@
 
 Repository for all my Jupyter Notebooks
 ### Classification Problems
-1. Titanic - ML From Disaster Dataset
-2. SMS Spam Classification Dataset
-3. Iris Flower Classification Dataset
-4. Rainbow Six Siege Operator Dataset
-
+1. Titanic - ML From Disaster
+2. SMS Spam Classification
+3. Iris Flower Classification 
+4. Rainbow Six Siege Operator 
+5. HR Analytics: Job Change of Data Scientists
 ### Regression Problems
-1. California Housing Dataset
+1. California Housing 
