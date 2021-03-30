@@ -9,3 +9,4 @@ Repository for all my Jupyter Notebooks
 5. HR Analytics: Job Change of Data Scientists
 ### Regression Problems
 1. California Housing 
+2. Wine Quality Dataset 
