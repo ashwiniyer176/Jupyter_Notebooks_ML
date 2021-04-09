@@ -11,3 +11,5 @@ Repository for all my Jupyter Notebooks
 ### Regression Problems
 1. California Housing 
 2. Wine Quality Dataset 
+3. Ames Housing Dataset
+4. WHO Life Expectancy
