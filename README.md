@@ -13,3 +13,4 @@ Repository for all my Jupyter Notebooks
 2. Wine Quality Dataset 
 3. Ames Housing Dataset
 4. WHO Life Expectancy
+5. Store Sales Prediction - Segmind AI Challenge
